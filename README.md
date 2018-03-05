@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 
 ## Contents 
-This reposition contains the files below:
+This repository contains the files below:
 * run_analysis.R - R script for cleaning the raw data
 * CodeBook.md - Describes the variables, data, etc.
 
